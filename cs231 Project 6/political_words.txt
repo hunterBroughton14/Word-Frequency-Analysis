@@ -1,0 +1,64 @@
+2008
+"Obama" word count: 10826
+"Biden" word count: 61
+"Iraq" word count: 2093
+"Trump" word count: 12
+"Clinton" word count: 2972
+"Isis" word count: 2
+"Depression" word count: 76
+2009
+"Obama" word count: 6602
+"Biden" word count: 180
+"Iraq" word count: 1873
+"Trump" word count: 33
+"Clinton" word count: 551
+"Isis" word count: 37
+"Depression" word count: 111
+2010
+"Obama" word count: 3657
+"Biden" word count: 46
+"Iraq" word count: 1165
+"Trump" word count: 19
+"Clinton" word count: 385
+"Isis" word count: 12
+"Depression" word count: 160
+2011
+"Obama" word count: 3178
+"Biden" word count: 55
+"Iraq" word count: 970
+"Trump" word count: 361
+"Clinton" word count: 319
+"Isis" word count: 16
+"Depression" word count: 103
+2012
+"Obama" word count: 2434
+"Biden" word count: 58
+"Iraq" word count: 472
+"Trump" word count: 33
+"Clinton" word count: 202
+"Isis" word count: 8
+"Depression" word count: 115
+2013
+"Obama" word count: 1543
+"Biden" word count: 36
+"Iraq" word count: 379
+"Trump" word count: 31
+"Clinton" word count: 186
+"Isis" word count: 9
+"Depression" word count: 119
+2014
+"Obama" word count: 849
+"Biden" word count: 16
+"Iraq" word count: 298
+"Trump" word count: 43
+"Clinton" word count: 163
+"Isis" word count: 24
+"Depression" word count: 83
+2015
+"Obama" word count: 802
+"Biden" word count: 26
+"Iraq" word count: 416
+"Trump" word count: 62
+"Clinton" word count: 384
+"Isis" word count: 59
+"Depression" word count: 98

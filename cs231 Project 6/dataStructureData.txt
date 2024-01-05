@@ -1,0 +1,8 @@
+HASH, 2008, Run Time: 3939.0, Max Depth: 7
+BST, 2008, Run Time: 15527.0, Max Depth: 225
+HASH, 2010, Run Time: 12174.0, Max Depth: 8
+BST, 2010, Run Time: 57727.0, Max Depth: 99
+HASH, 2012, Run Time: 17006.0, Max Depth: 9
+BST, 2012, Run Time: 50698.0, Max Depth: 485
+HASH, 2014, Run Time: 14280.0, Max Depth: 8
+BST, 2014, Run Time: 65528.0, Max Depth: 909
